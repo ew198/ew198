@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ew198
+- 👋 Hi, I’m @ew198, brand new to Github...
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on outdoor air system, means to develop smart ventilator to controlled with sensor or program automatically. 
